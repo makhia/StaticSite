@@ -1,0 +1,37 @@
+
+        h1 {
+            font-family: 'Cherry Cream Soda';
+            font-size: 32px;
+            text-align: center;
+        }
+        h2{
+          font-family: 'Aclonica';
+            font-size: 22px;
+            text-align: left;  
+        }
+         
+        p{
+            font-family: Averia Gruesa Libre;
+            
+            
+        }
+        li{
+           font-family: Averia Gruesa Libre; 
+        }
+    
+        img{
+            border-radius: 30px;
+            box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7)
+        }
+       td { border: 1px solid black; padding:10px;}
+
+       table{
+            border-spacing: 10px;    
+        }
+        b{
+        font-family: Cherry Cream Soda;
+        }
+        i{
+         font-family: Crete Round;
+        }
+        
